@@ -1,0 +1,4 @@
+- 👋 Oi, eu sou Christian
+- 👀 Estou interessado em Desenvolvimento Full Stack
+- 🌱 Atualmente estou aprendendo Flutter / Java
+- 📫 Como chegar até mim Email: spchrisoliveira@gmail.com - Tel/Wpp: 11972807013
